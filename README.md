@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a PArking App Project**
+ 🔭 I’m currently working on **a Parking App Project**
  
- 🌱 I’m currently learning **MERN Stack**
+ 🌱 I’m currently learning **MERN Stack** @ "Inception-U"
 
 💬 Ask me about **Node.js, React, Three.js... or anything [here](https://github.com/BMHDI/BMHDI/issues)**
 
@@ -45,7 +45,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2> My Contributions </h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/BMHDI/BMHDI/output/github-snake.svg" />
   
