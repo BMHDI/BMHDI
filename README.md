@@ -10,8 +10,6 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Parking App Project**
- 
  🌱 I’m currently learning **MERN Stack** @ "Inception-U"
 
 💬 Ask me about **Node.js, React, Three.js... or anything [here](https://github.com/BMHDI/BMHDI/issues)**
