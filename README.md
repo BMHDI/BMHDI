@@ -7,7 +7,13 @@
 <h3 align="center">A passionate software developer </h3>
 
 <br/>
+I’m an ever-curious explorer who thrives on learning new things and embracing life with enthusiasm. I have a deep love for music—especially piano—and have always dreamed of playing classical pieces. While I appreciate all kinds of creative music, there’s something uniquely inspiring about the artistry behind great compositions.
 
+Staying active is important to me—I believe in keeping my body fit and my mind sharp. I find balance in the calm moments, where I can reflect and recharge, but my passion for discovery always pushes me forward.
+
+Traveling is a dream I carry close to my heart. Being originally from Morocco, I’m fascinated by the richness of culture and diversity the world has to offer. My goal is to explore as many countries as possible, immersing myself in new experiences and learning from different ways of life.
+
+In everything I do, I strive to stay curious, enthusiastic, and connected to the world around me. Life is a journey, and I’m here to explore every melody, landscape, and story it has to offer.
 <div align="center">
 
 
