@@ -47,14 +47,5 @@ In everything I do, I strive to stay curious, enthusiastic, and connected to the
 <br/>
 <hr/>
 
-<div align="center">
-  <h2> My Contributions </h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/BMHDI/BMHDI/output/github-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-
 
 
